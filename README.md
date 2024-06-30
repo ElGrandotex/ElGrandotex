@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNyanJtdGppOTF0Y2drZTE4anZsMW44M2pxeXJqODlvZ2Jmc2psMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
         width="200" />
-    <h2 align="center">Hi! I'm José Verdezoto 👋</h1>
-    <h3>
+    <h1 align="center">Hi! I'm José Verdezoto 👋</h1>
+    <h5>
         I am passionate and dedicated with a strong commitment to
         continuous learning and software development. My proactive
         approach and constant search for new knowledge has
@@ -11,7 +11,7 @@
         software development drive me to explore new technologies
         and methodologies, always looking to improve my skills and
         contribute significantly to innovative projects.
-    </h3>
+    </h5>
 </div>
 
 ---
