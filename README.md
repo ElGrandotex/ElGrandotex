@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNyanJtdGppOTF0Y2drZTE4anZsMW44M2pxeXJqODlvZ2Jmc2psMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
         width="200" />
-    <h1 align="center">Hi! I'm José Verdezoto 👋</h1>
+    <h2 align="center">Hi! I'm José Verdezoto 👋</h1>
     <h3>
         I am passionate and dedicated with a strong commitment to
         continuous learning and software development. My proactive
