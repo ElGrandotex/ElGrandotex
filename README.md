@@ -42,8 +42,6 @@
 
 ### 📊 My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElGrandotex&theme=prussian)](https://git.io/streak-stats)
+![ElGrandotex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElGrandotex&theme=vue-dark&hide_border=true)
 
-![ElGrandotex's Stats](https://github-readme-stats.vercel.app/api?username=ElGrandotex&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true)
-
-![ElGrandotex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElGrandotex&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
+![ElGrandotex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElGrandotex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
