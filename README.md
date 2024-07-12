@@ -22,6 +22,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" alt="Angular" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Angular" width="40" height="40">&nbsp;
