@@ -23,6 +23,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Angular" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Angular" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Angular" width="40" height="40">&nbsp;
@@ -33,7 +35,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Angular" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Angular" width="40" height="40">&nbsp;
     </div>
